@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "viewBinding"
 include ':app'
+include ':ch6_view2'
